@@ -1,0 +1,11 @@
+{
+    "uat": {
+        "base_URL": "https://gorest-uat.co.in"
+    },
+    "prod": {
+        "base_URL": "https://gorest.co.in"
+    },
+    "environment": {
+        "env": "prod"
+    }
+}
