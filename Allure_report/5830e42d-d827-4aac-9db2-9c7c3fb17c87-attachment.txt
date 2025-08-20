@@ -1,0 +1,4 @@
+[32mINFO    [0m root:Testing_File.py:64 Start Testing the Update User Function.
+[32mINFO    [0m root:Testing_File.py:74 This is the user updated details :- {'name': 'Updated Vishal', 'email': 'vishal93173@gmail.com', 'gender': 'male', 'status': 'inactive'}
+[32mINFO    [0m root:Testing_File.py:82 Getting the user details after the update:-     {'email': 'vishal93173@gmail.com', 'name': 'Updated Vishal', 'gender': 'male', 'status': 'inactive', 'id': 8077797}
+[32mINFO    [0m root:Testing_File.py:103 After all the assert everything is working fine. it is printing the update details.

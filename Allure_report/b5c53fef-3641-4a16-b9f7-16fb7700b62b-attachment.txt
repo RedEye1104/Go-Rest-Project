@@ -1,0 +1,5 @@
+[32mINFO    [0m root:Testing_File.py:29 Start Testing the Create User Function.
+[32mINFO    [0m root:Testing_File.py:30 Creating the user with the post method.
+[32mINFO    [0m root:Testing_File.py:38 Taking ID from response body.
+[32mINFO    [0m root:Testing_File.py:41 Printing response body:-    {'id': 8077797, 'name': 'Vishal k', 'email': 'vishal14417@gmail.com', 'gender': 'male', 'status': 'active'}
+[32mINFO    [0m root:Testing_File.py:43 This is the created id: :-, 8077797

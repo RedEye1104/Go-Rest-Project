@@ -1,0 +1,3 @@
+[32mINFO    [0m root:Testing_File.py:109 Start Testing the Delete User Function.
+[32mINFO    [0m root:Testing_File.py:119 getting the status code to check if the user is deleted successfully!
+[32mINFO    [0m root:Testing_File.py:126 Everything is working fine, adding this in github.

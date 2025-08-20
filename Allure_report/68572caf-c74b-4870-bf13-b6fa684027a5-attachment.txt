@@ -1,0 +1,3 @@
+[32mINFO    [0m root:Testing_File.py:50 Start Testing the Get User Function.
+[32mINFO    [0m root:Testing_File.py:51 Getting the User Detail With The ID.
+[32mINFO    [0m root:Testing_File.py:57 Get the user detail with the get method :- {'id': 8077797, 'name': 'Vishal k', 'email': 'vishal14417@gmail.com', 'gender': 'male', 'status': 'active'}
